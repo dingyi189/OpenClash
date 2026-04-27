@@ -87,13 +87,6 @@ localhost.sec.qq.com
 +.srv.nintendo.net
 *.n.n.srv.nintendo.net
 +.cdn.nintendo.net
-#Sony PlayStation
-+.stun.playstation.net
-#Microsoft Xbox
-xbox.*.*.microsoft.com
-*.*.xboxlive.com
-xbox.*.microsoft.com
-xnotify.xboxlive.com
 #Golang
 proxy.golang.org
 #STUN
