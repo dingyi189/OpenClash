@@ -15,13 +15,7 @@ resolver1.opendns.com
 global.turn.twilio.com
 global.stun.twilio.com
 localhost.*.weixin.qq.com
-*.cmpassport.com
-id6.me
-*.jegotrip.com.cn
-*.icitymobile.mobi
-*.pingan.com.cn
 *.cmbchina.com
-*.10099.com.cn
 *.microdone.cn
 #放行NTP服务
 time.*.com
