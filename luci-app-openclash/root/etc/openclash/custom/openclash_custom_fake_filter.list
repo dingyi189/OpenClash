@@ -119,12 +119,6 @@ stun.l.google.com
 na.b.g-tun.com
 #Bilibili
 *.mcdn.bilivideo.cn
-#Disney Plus
-+.media.dssott.com
-#shark007 Codecs 
-shark007.net
-#Mijia
-Mijia Cloud
 #招商银行
 +.cmbchina.com
 +.cmbimg.com
