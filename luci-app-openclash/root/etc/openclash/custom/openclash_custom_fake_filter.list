@@ -8,7 +8,6 @@
 *.local
 *.home.arpa
 *.direct
-cable.auth.com
 network-test.debian.org
 detectportal.firefox.com
 resolver1.opendns.com
