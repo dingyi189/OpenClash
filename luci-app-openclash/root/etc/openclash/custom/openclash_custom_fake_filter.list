@@ -11,8 +11,6 @@
 network-test.debian.org
 detectportal.firefox.com
 resolver1.opendns.com
-global.turn.twilio.com
-global.stun.twilio.com
 localhost.*.weixin.qq.com
 *.microdone.cn
 #放行NTP服务
