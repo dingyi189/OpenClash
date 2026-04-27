@@ -95,13 +95,6 @@ xbox.*.*.microsoft.com
 *.*.xboxlive.com
 xbox.*.microsoft.com
 xnotify.xboxlive.com
-#Wotgame
-+.battle.net
-+.battlenet.com.cn
-+.wotgame.cn
-+.wggames.cn
-+.wowsgame.cn
-+.wargaming.net
 #Golang
 proxy.golang.org
 #STUN
