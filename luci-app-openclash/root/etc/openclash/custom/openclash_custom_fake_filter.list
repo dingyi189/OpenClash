@@ -33,9 +33,6 @@ enrichgw.10010.com
 *.cmbchina.com
 *.10099.com.cn
 *.microdone.cn
-PDC._msDCS.*.*
-DC._msDCS.*.*
-GC._msDCS.*.*
 #放行NTP服务
 time.*.com
 time.*.gov
