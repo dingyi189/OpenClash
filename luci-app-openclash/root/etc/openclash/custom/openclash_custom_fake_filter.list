@@ -44,8 +44,6 @@ localhost.sec.qq.com
 +.srv.nintendo.net
 *.n.n.srv.nintendo.net
 +.cdn.nintendo.net
-#Golang
-proxy.golang.org
 #STUN
 stun.l.google.com
 *.stun.twilio.com
