@@ -50,12 +50,9 @@ localhost.sec.qq.com
 #Golang
 proxy.golang.org
 #STUN
-stun.*.*
-stun.*.*.*
-+.stun.*.*
-+.stun.*.*.*
-+.stun.*.*.*.*
-+.stun.*.*.*.*.*
+stun.l.google.com
+*.stun.twilio.com
+*.turn.twilio.com
 #ASUS Router
 *.router.asus.com
 #Apple Software Update Service
