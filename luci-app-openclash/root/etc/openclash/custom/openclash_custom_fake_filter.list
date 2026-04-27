@@ -69,8 +69,10 @@ na.b.g-tun.com
 #Bilibili
 *.mcdn.bilivideo.cn
 #招商银行
-+.cmbchina.com
-+.cmbimg.com
+cmbchina.com
+*.cmbchina.com
+cmbimg.com
+*.cmbimg.com
 #迅雷
 +.sandai.net
 +.n0808.com
