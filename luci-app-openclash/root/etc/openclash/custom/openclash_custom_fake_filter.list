@@ -14,7 +14,6 @@ resolver1.opendns.com
 global.turn.twilio.com
 global.stun.twilio.com
 localhost.*.weixin.qq.com
-*.cmbchina.com
 *.microdone.cn
 #放行NTP服务
 pool.ntp.org
