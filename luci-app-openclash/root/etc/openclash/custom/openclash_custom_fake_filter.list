@@ -15,7 +15,6 @@ resolver1.opendns.com
 global.turn.twilio.com
 global.stun.twilio.com
 app.yinxiang.com
-injections.adguard.org
 localhost.*.weixin.qq.com
 *.blzstatic.cn
 *.cmpassport.com
