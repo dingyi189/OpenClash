@@ -16,7 +16,6 @@ global.turn.twilio.com
 global.stun.twilio.com
 app.yinxiang.com
 localhost.*.weixin.qq.com
-*.blzstatic.cn
 *.cmpassport.com
 id6.me
 open.e.189.cn
