@@ -28,12 +28,10 @@ music.163.com
 #QQ音乐
 y.qq.com
 *.y.qq.com
+*.qqmusic.qq.com
+*.music.tc.qq.com
 streamoc.music.tc.qq.com
 mobileoc.music.tc.qq.com
-isure.stream.qqmusic.qq.com
-dl.stream.qqmusic.qq.com
-aqqmusic.tc.qq.com
-amobile.music.tc.qq.com
 #win10本地连接检测
 +.msftconnecttest.com
 +.msftncsi.com
