@@ -111,10 +111,6 @@ stun.*.*.*
 +.stun.*.*.*
 +.stun.*.*.*.*
 +.stun.*.*.*.*.*
-#Linksys Router
-heartbeat.belkin.com
-*.linksys.com
-*.linksyssmartwifi.com
 #ASUS Router
 *.router.asus.com
 #Apple Software Update Service
